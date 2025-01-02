@@ -1,0 +1,6 @@
+if SHIELD_MACROPAD_NRF52840
+
+config ZMK_KEYBOARD_NAME
+    default "macropad_nrf52840"
+
+endif
